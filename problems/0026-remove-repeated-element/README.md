@@ -1,4 +1,4 @@
-# 0027. 移除元素（Remove Element）
+# 0027. 移除重复元素（Remove  Repeated Element）
 
 题目链接： https://leetcode.cn/problems/remove-element/
 
